@@ -4,7 +4,7 @@ from random import*
 hideturtle()
 speed(0)
 width(1)
-tracer(200,0)
+tracer(500,0)
 
 
 
